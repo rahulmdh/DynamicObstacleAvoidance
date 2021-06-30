@@ -2,4 +2,4 @@ An algorithm for avoiding moving (or velocity) obstacles in a dynamic configurat
 
 References -
 1) Generalized Velocity Obstacles - D. Wilkie, J. Berg, D. Manocha 
-   - https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9381&rep=rep1&type=pdf
+   - https://ieeexplore.ieee.org/document/5354175
